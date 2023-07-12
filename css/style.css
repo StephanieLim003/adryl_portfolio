@@ -217,10 +217,10 @@ background-repeat: no-repeat;
   width: 220px;
   padding: 10px 10px;
 
-    transition: transform 3s;
+  transition: transform 3s;
 }
 img.image:hover{
-    transform:scale(0.2);
+    transform:scale(1);
 }
 .showcases .row p{
   margin-top: 300px;
