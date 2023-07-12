@@ -223,21 +223,6 @@ background-repeat: no-repeat;
     transform:scale(1);
 }--*/
 
-
-
-.imgLink { border: none; background: none; }
-.imgLink img
-{
-  height: 80px;
-}
-.imgLink:active img, .imgLink:focus img
-{
-  height: 160px;
-}
-
-
-
-
 .showcases .row p{
   margin-top: 300px;
   font-size: 15px;
