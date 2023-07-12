@@ -216,6 +216,8 @@ background-repeat: no-repeat;
   height: 220px;
   width: 220px;
   padding: 10px 10px;
+
+    transition: transform .2s;
 }
 .image:hover{
     transform:scale(5.5);
