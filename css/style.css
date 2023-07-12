@@ -219,7 +219,7 @@ background-repeat: no-repeat;
 
     transition: transform .2s;
 }
-.image:hover{
+img.image:hover{
     transform:scale(5.5);
 }
 .showcases .row p{
