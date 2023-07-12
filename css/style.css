@@ -218,11 +218,11 @@ background-repeat: no-repeat;
 .imgLink { border: none; background: none; }
 .imgLink img
 {
-  height: 8rem;
+  height: 800rem;
 }
 .imgLink:active img, .imgLink:focus img
 {
-  height: 16rem;
+  height: 1600rem;
 }
 
 
