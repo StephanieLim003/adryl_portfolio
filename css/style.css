@@ -216,13 +216,7 @@ background-repeat: no-repeat;
   height: 220px;
   width: 220px;
   padding: 10px 10px;
-
-    transition: 0.3s;
 }
-/*--img.image:hover{
-    transform:scale(1);
-}--*/
-
 .showcases .row p{
   margin-top: 300px;
   font-size: 15px;
