@@ -216,7 +216,9 @@ background-repeat: no-repeat;
   height: 220px;
   width: 220px;
   padding: 10px 10px;
-  transform:scale(5.5);
+}
+.image:hover{
+    transform:scale(5.5);
 }
 .showcases .row p{
   margin-top: 300px;
