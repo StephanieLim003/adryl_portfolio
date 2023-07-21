@@ -282,7 +282,16 @@ background-repeat: no-repeat;
   justify-content: center;
   align-items: center;
 }
-
+.writeups h1{
+  color: #ffff;
+}
+.writeups{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0px 150px;
+}
 .port {
   width: 232px;
   height: 327px;
@@ -293,18 +302,23 @@ background-repeat: no-repeat;
   width: 466px; 
   padding: 5px 5px;
 }
+.sketches {
+padding: 80px 80px;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .slide {
-  width: 1230px;
+  width: 1000px;
   overflow: hidden;
   overflow-x: scroll;
 }
-.writeups h1{
-  color: #ffff;
-    align-items: center;
-}
-.writeups{
+.wordsss {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 150px 150px;
+
+  width: 232px;
+  height: 327px;
+  padding: 5px 5px;
 }
