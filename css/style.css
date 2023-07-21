@@ -263,6 +263,7 @@ background-repeat: no-repeat;
   margin-left: 50px;
   overflow: hidden;
   overflow-y: scroll;
+    margin-bottom: 30px;
 }
 ::-webkit-scrollbar {
   width: 0px;
