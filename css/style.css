@@ -298,3 +298,12 @@ background-repeat: no-repeat;
   overflow: hidden;
   overflow-x: scroll;
 }
+.writeups h1{
+  color: #ffff;
+}
+.writeups{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 50px;
+}
